@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">基本电费计算天秤</string>
+    <string name="right_button">实际最大需量\n(单价:34元/kW/月)</string>
+    <string name="left_button">变压器容量\n(单价:27.5元/kVA/月)</string>
+    <string name="commit_button">结果分析</string>
+    <string name="reset_button">停止</string>
+    <string name="QuXiao">取消</string>
+    <string name="QueDing">确定</string>
+    <string name="OtherVolumes">手动填写变压器容量</string>
+
+
+</resources>
